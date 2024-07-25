@@ -11,7 +11,7 @@ Este proyecto contiene una función para decodificar mensajes navideños dentro 
 1. Clona el repositorio:
 
     ```sh
-    git clone https://github.com/tu-usuario/decode-project.git
+    git clone https://github.com/renzosl/ejercicio_3.git
     ```
 
 2. Navega al directorio del proyecto:
